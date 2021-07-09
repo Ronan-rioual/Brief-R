@@ -1,0 +1,27 @@
+---
+title: "statistique house"
+output: html_notebook
+---
+
+
+```{r}
+read.csv2("C:/Users/utilisateur/Google Drive/r/house.csv")
+```
+
+```{r}
+house<-read.csv2("C:/Users/utilisateur/Google Drive/r/house.csv")
+```
+
+```{r}
+View(house)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
